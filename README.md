@@ -1,1 +1,1 @@
-# Advanced-Course-Management-System-Using-Hash-Tables
+# Course-Management-System-Using-Hash-Tables
